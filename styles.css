@@ -160,6 +160,13 @@
 #aabningstider h1 {
     font-size: 5rem;
     font-family: 'Bebas Neue', cursive;
+    color: burlywood;
+}
+
+#aabningstider p {
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 20rem;
+    color: palevioletred;
 }
 
 
