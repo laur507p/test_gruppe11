@@ -147,7 +147,10 @@
 /* ----------- aabningstider indstillinger ---------------*/
 
 
-
+#aabningstider h1 {
+    font-size: 5rem;
+    font-family: 'Bebas Neue', cursive;
+}
 
 
 
