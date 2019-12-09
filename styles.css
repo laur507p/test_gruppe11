@@ -104,7 +104,17 @@
 
 
 
+#forside h1 {
+    font-size: 20pt;
+    font-family: helvetica;
+    color: red;
+}
 
+#forside p {
+    font-family: helvetica;
+    font-size: 20rem;
+    color: red;
+}
 
 
 
